@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my frst repository
 <br>
-author-C H Rajitha
+author-C H Rajitha (btech student)
